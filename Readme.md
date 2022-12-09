@@ -1,13 +1,8 @@
-1.打开final_project.py
+SI508 final project py Pengyu Yang
+Dota2 banpick helper
 
-2.滑块滑到最右
-
-3.getLargeMatchesSteam and wait
-
-4.右边选择英雄
-
-5.按英雄按钮可以切换
-
-6.savefile button
-
-7.下次打开loadfile button
+Get Started:
+To get your own API keys, go to https://steamcommunity.com/dev/apikey and signin with your steam account. Then replace the API keys.
+To run the program, open “Starter.py” with python.py or use command line python3 final_project.py
+The program requires packages ast, tkinter & requests.
+To use the program, simply press the buttons to load or get the records. Use the drop-down menu to select the Heroes and see their counter results.
