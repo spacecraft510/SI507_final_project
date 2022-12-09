@@ -15,3 +15,6 @@ how to interact:<br />
 *Load the cached records: press button “load from file” or “load from OpenDotaAPI” depending on which sources you want.
 *Use the drop-down menu to select the Hero. The program will show the counter Heroes. Click on the counter Hero jumps to provide counters for that counter Hero.
 *save the results: press: press ”save to file” button. Then press “STOP” to exit
+- George Washington
+* John Adams
++ Thomas Jefferson
