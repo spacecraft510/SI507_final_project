@@ -16,5 +16,6 @@ how to interact:<br />
 + Use the drop-down menu to select the Hero. The program will show the counter Heroes. Click on the counter Hero jumps to provide counters for that counter Hero.
 * save the results: press: press ”save to file” button. Then press “STOP” to exit
 
-Graph Structure
-![Graph Structure](Picture1.png)
+Graph Structure<br />
+For each game from the API, heroes and their win and loss will be store in a graph shown as below. The heroes are represented by the node and the edge is the win rate against other heroes.<br />
+![Graph Structure](Picture1.png)<br />
