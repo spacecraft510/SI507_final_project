@@ -19,4 +19,5 @@ how to interact:<br />
 Graph Structure<br />
 For each game from the API, heroes and their win and loss will be store in a graph shown as below. The heroes are represented by the node and the edge is the win rate against other heroes.<br />
 ![Graph Structure](Picture1.png)<br />
-The program finds the five heroes that has the lowest win rate as the “highlighted counter heroes” and displays to the client. This node and edge combination applies to other Heroes as well to form a large graph. 
+The program finds the five heroes that has the lowest win rate as the “highlighted counter heroes” and displays to the client. This node and edge combination applies to other Heroes as well to form a large graph. <br />
+Looking at the code, class Hero is the node and WLStates is the edge. All loading and storing is achieved through the graph.
